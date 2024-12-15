@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4d476372edf245bd8a9b4e57c0c6dd8d/artifacts
+end_time: 1734248065600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d476372edf245bd8a9b4e57c0c6dd8d
+run_name: redolent-mink-128
+run_uuid: 4d476372edf245bd8a9b4e57c0c6dd8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734248051002
+status: 3
+tags: []
+user_id: Lenovo

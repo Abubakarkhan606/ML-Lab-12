@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/af35b0f5cfa2479683a13df2079fcb75/artifacts
+end_time: 1734249741021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af35b0f5cfa2479683a13df2079fcb75
+run_name: likeable-fowl-875
+run_uuid: af35b0f5cfa2479683a13df2079fcb75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734249738517
+status: 3
+tags: []
+user_id: Lenovo
